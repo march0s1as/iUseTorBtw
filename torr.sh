@@ -31,7 +31,7 @@ echo """${italicson}${greenf}
               ;:ll:lokcd,;;.      .            ///march0s1as
                     ;;'..    ..,                                                                                                                                          """
 tor () {
-cd tor-browser_pt-BR
+cd ~/iUseTorBtw/tor-browser_pt-BR
 ./start-tor-browser.desktop
 }
 
