@@ -4,6 +4,7 @@ sudo apt install proxychains
 sudo apt install tor
 wget https://www.torproject.org/dist/torbrowser/10.0.12/tor-browser-linux64-10.0.12_pt-BR.tar.xz
 tar -xvf tor-browser-linux64-10.0.12_pt-BR.tar.xz
+chmod +x torr.sh
 sudo cp torr.sh /usr/bin/torr
 clear
 echo "${fVermelho}Instalação finalizada ! Para rodar o script, digite 'torr' "
